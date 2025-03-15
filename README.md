@@ -1,10 +1,9 @@
 UpKeep - Version 1.0
-Author: x-so
 =====================================
 
 Overview
 --------
-UpKeep is an open-source Tkinter-based application designed to help troubleshoot and maintain Windows PCs. It provides a user-friendly interface with buttons to run diagnostic and repair batch scripts, displaying their output directly in the app. Reports are saved for later review, and the app is customizable for additional functionality.
+UpKeep is an open-source Tkinter-based application designed to help troubleshoot and maintain Windows PCs. It provides a user-friendly interface, diagnostic and repair batch scripts, displaying their output directly in the app. Reports are saved for later review, and the app is customizable for additional functionality.
 
 Features
 --------
