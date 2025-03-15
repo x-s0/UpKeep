@@ -1,4 +1,4 @@
-# UpKeep - Version 1.0
+# UpKeep - Version 1.1
 # Copyright (c) 2025 x-so
 # Licensed under the MIT License (see LICENSE for details)
 
