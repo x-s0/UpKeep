@@ -3,7 +3,7 @@
 ## [v1.1] - March 15, 2025
 
 ### Overview
-This release introduces a new and more minimalistic title bar and a clear output button.
+This release introduces a new and more minimalistic title bar and a "clear" output button.
 
 ### Added
 - New title bar
@@ -13,6 +13,6 @@ This release introduces a new and more minimalistic title bar and a clear output
 - title bar :)
 
 ### Notes
-- Dark mode is planner for a future update soon.
+- Dark mode is planned for a future update.
 
 ---
