@@ -1,6 +1,6 @@
 @echo off
 echo ----------------------
-echo UpKeep - Version 1.0
+echo UpKeep - Version 1.1
 echo Author - x-so
 echo ----------------------
 echo All the app documentation is in README or on my github
