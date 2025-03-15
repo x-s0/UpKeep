@@ -46,7 +46,7 @@ Usage
 
 Editing and Customization
 -------------------------
-UpKeep is open-source under the MIT License (see LICENSE.txt). Here’s how to modify it:
+UpKeep is open-source under the MIT License (see LICENSE). Here’s how to modify it:
 
 ### Changing Scripts
 - **Location**: All .bat files are in the `scripts` folder.
