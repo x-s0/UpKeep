@@ -7,7 +7,6 @@ UpKeep is an open-source Tkinter-based application designed to help troubleshoot
 
 Features
 --------
-- Vertical buttons on the left side for running troubleshooting scripts.
 - Real-time command output display.
 - Diagnostic report generation saved to a 'reports' folder.
 - Option to view the latest report in Notepad.
