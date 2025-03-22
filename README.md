@@ -1,4 +1,4 @@
-UpKeep - Version 1.1
+UpKeep - Version 1.5
 =====================================
 
 Overview
@@ -10,6 +10,8 @@ Features
 - Real-time command output display.
 - Diagnostic report generation saved to a 'reports' folder.
 - Option to view the latest report in Notepad.
+- Script Editor. (UpEditor)
+- Dev Mode for customizability.
 
 Requirements
 ------------
