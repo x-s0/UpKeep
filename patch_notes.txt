@@ -1,0 +1,32 @@
+UpKeep - Patch Notes
+====================
+
+Version 1.5 - March 23, 2025
+----------------------------
+- Added tabs for different sections.
+- Introduced UpEditor for creating and editing .bat scripts.
+- Introduced Patch Notes tab.
+- Implemented custom dark/light theme support with toggle functionality in settings.
+- Introduced developer mode for extra buttons. (Activated in settings)
+
+Version 0.0 - March 15, 2025 (Experimental)
+-----------------------------------
+- This will start being updated as we go on, currently no active experimental build.
+
+Known Issues
+------------
+- Some scripts may require administrative privileges to run successfully. (Which isn't really a issue)
+- Resizing not supported due to borderless design.
+- Limited error handling for invalid script syntax in UpEditor.
+- Some colours are bugged when switching back to Light Mode.
+
+Future Updates
+--------------
+- Add syntax highlighting for UpEditor.
+- Implement auto-update checker.
+- Expand diagnostic reporting with more detailed system insights.
+- Add support for additional script types (e.g., .ps1, .cmd).
+
+Future Plans
+------------
+- Making it a fully complete app (moving away from Tkinter)
